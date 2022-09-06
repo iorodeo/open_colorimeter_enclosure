@@ -1,0 +1,6 @@
+*~
+*.FCStd1
+*.pyc
+*-bak
+external_components
+*.png
