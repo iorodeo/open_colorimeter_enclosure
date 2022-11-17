@@ -1,4 +1,4 @@
-# colorimeter_enclosure 
+# open_colorimeter_enclosure 
 
 Hardware design (FreeCAD) for IO Rodeo's colorimeter enclosure. 
 
