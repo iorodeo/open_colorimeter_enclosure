@@ -2,5 +2,6 @@
 *.FCStd1
 *.pyc
 *-bak
+*.FCBak
 external_components
 *.png
